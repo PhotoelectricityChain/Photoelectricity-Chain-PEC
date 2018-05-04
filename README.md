@@ -1,3 +1,3 @@
-# COPYRIGHT (C) 2018-2019, PHOTOELECTRICITY CHAIN/PEC.
-# COMMIT BY HTTPS://GITHUB.COM/GABRIELLEXIONGGUNGUN/
-# LAST UPDATED: 2018-05-03
+# Copyright (c) 2018-2019, photoelectricity chain/pec.
+# Commit by https://github.com/gabriellexionggungun/
+# last updated: 2018-05-04
