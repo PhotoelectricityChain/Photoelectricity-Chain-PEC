@@ -1,24 +1,25 @@
-# Copyright (c) 2018-2019, photoelectricity chain/pec.
-Photoelectricity Coin（简称：PEC光电链）
+# COPYRIGHT (c) 2018-2019, PHOTOELECTRICITY CHAIN/PEC.
 
-未来，区块链技术与分布式光伏能源的互相融合，或将打破能源集中式生产和输配售的现有格局，更有望颠覆能源企业传统的业务模式和盈利模式。这是在2017年夏季达沃斯论坛上提出的建议。
+Photoelectricity Coin
 
-随着科技时代的飞速发展，人类将大自然馈赠的不可再生资源利用到换取科技产物中去，我们乃至子孙后代能享受到的资源越来越少。反之，牺牲环保带来的是全球温室效应逐年提升，温室效应自地球形成以来，它就一直在起作用。如果没有温室效应，地球表面就会寒冷无比，温度就会降到零下20℃，海洋就会结冰，生命就不会形成。因此，我们面临的不是有没有温室效应的问题，而是人类通过燃烧化石燃料把大量温室气体排入大气层，致使温室效应与地球气候发生急剧变化的问题。
+In the future, the integration of blockchain technology and distributed photovoltaic energy will probably break the existing pattern of concentrated energy production and transmission and distribution, and it is expected to subvert the traditional business models and profit models of energy companies. This is a suggestion made at the Davos Forum in summer 2017.
 
-当全世界平均温度升高1℃，巨大的变化就会产生：海平面会上升，山区冰川会后退，积雪区会缩小。由于全球气温升高，就会导致不均衡的降水，一些地区降水增加，而另一些地区降水减少。如西非的萨赫勒地区从1965年以后干旱化严重；中国华北地区从1965年起，降水连年减少，与50年代相比，华北地区的降水已减少了1/3，水资源减少了1/2；中国每年因干旱受灾的面积约4亿亩，正常年份全国灌区每年缺水300亿立方米，城市缺水60亿立方米。当全世界的平均温度升高3℃，人类也已经无力挽回了，全球将会粮食吃紧。由于气温升高，在过去100年中全球海平面每年以1~2毫米的速度在上升，预计到2050年海平面将继续上升30~50厘米，这将淹没沿海大量低洼土地；此外，由于气候变化导致旱涝、低温等气候灾害加剧，造成了全世界每年约数百亿以上美元的经济损失。
+With the rapid development of the age of science and technology, human beings have used the non-renewable resources of nature gifts in exchange for technological products, and fewer and fewer resources are available to us and future generations. Conversely, sacrificing environmental protection brings about a global increase in the global greenhouse effect, which has been working since the formation of the Earth's greenhouse effect. If there is no greenhouse effect, the surface of the earth will be extremely cold, and the temperature will drop to minus 20 degrees Celsius. The ocean will freeze and life will not be formed. Therefore, we are not faced with the problem of whether or not there is a greenhouse effect, but human beings are burning fossil fuels to emit a large amount of greenhouse gases into the atmosphere, causing the greenhouse effect and the earth's climate to undergo drastic changes.
 
-由能源基金会（美国）和可再生能源基金（美国）号召下，联合• 威廉与佛洛拉·休利特基金会（William and Flora Hewlett Foundation）
+When the average temperature in the world rises by 1°C, huge changes will occur: sea levels will rise, mountainous glaciers will recede, and snow-covered areas will shrink. As global temperatures rise, unbalanced rainfall will result, precipitation in some areas will increase, and precipitation in other areas will decrease. For example, the Sahelian region in West Africa has been severely arid since 1965. In North China, the precipitation has decreased year after year since 1965. Compared with the 1950s, precipitation in North China has decreased by 1/3, and water resources have decreased by 1/1. 2; The area affected by drought in China is about 400 million mu each year. In the normal years, the irrigation areas in the country each year have a water shortage of 30 billion cubic meters, and the city lacks 6 billion cubic meters of water. When the average temperature in the world rises by 3°C, humans are no longer able to recover, and the world will be tight. As the temperature rises, global sea level rises at a rate of 1 to 2 millimeters per year over the past 100 years, and it is expected that sea level will continue to rise by 30 to 50 centimeters by 2050, which will inundate large amounts of low-lying land along the coast; in addition, due to the climate Changes have led to an increase in climate disasters such as droughts and floods and low temperatures, resulting in economic losses of about tens of billions of dollars a year in the world.
 
-• 大卫与露茜尔·派克德基金会（The David and Lucile Packard Foundation）
+Called by the Energy Foundation (United States) and the Renewable Energy Fund (United States), the William and Flora Hewlett Foundation (William and Flora Hewlett Foundation)
 
-• 儿童投资基金会（Children’s Investment Fund Foundation）
+• David and Lucile Packard Foundation
 
-• 劳拉与约翰·阿诺德基金会（Laura and John Arnold Foundation）
+• Children’s Investment Fund Foundation
 
-• 彭博慈善基金会（Bloomberg Philanthropies）
+• Laura and John Arnold Foundation
 
-• 气候工作基金会（ClimateWorks Foundation）
+• Bloomberg Philanthropies
 
-• 橡树基金会（Oak Foundation）等基金会共同推进新型清洁能源光电的应用与普及共同发起的，为增加光电应用让更多了解光电价值为环保事业做一份贡献。恒量发行7.7亿光电币，算力根据光伏机组的电产能功率而提高开采系数，预计开采20年才能开采完。
+• ClimateWorks Foundation
 
-PEC光电链；采用极具创新意识的“POW+POS”技术，成功研发出可替代的智能合约、多链并行、共识机制、P2P网络、储存、加密等功能模板结合的第三代加密数字货币，实现了光电能源新应用价值性。
+• Foundations such as the Oak Foundation jointly promote the application and popularization of new types of clean energy photovoltaics, and make a contribution to increasing the use of photovoltaics for more understanding of photovoltaic value for environmental protection. Constant amount of 770 million optoelectronics is issued, and the calculation power increases the mining coefficient according to the power capacity of the photovoltaic power generation unit. It is estimated that the mining can be completed 20 years after mining.
+
+PEC Optoelectronics Chain; The highly innovative “POW+POS” technology has successfully developed a third-generation encrypted digital currency that combines alternative smart contracts, multi-chain parallelism, consensus mechanisms, P2P networking, storage, encryption, and other functional templates. , to achieve the new application of photovoltaic energy value.
